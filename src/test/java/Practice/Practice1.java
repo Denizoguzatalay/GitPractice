@@ -8,6 +8,10 @@ public class Practice1 {
         System.out.println("dddd");
         
         System.out.println("dddd");
+        System.out.println("dddd");
+        System.out.println("dddd");
+        
+        System.out.println("dddd");
         
     }
 
