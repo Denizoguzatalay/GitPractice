@@ -10,7 +10,9 @@ public class Practice1 {
         System.out.println("dddd");
         System.out.println("lllllllllllllll");
         System.out.println("dddd");
-        
+        System.out.println("dddd");
+        System.out.println("mmmmmmmmmmmmmmmm");
+
         System.out.println("dddd");
         System.out.println("dddd");
         System.out.println("dddd");
