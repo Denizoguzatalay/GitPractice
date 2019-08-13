@@ -6,6 +6,10 @@ public class Practice2 {
         System.out.println("Zalimsin github");
         System.out.println("firstbranch change 1");
 
+
+        System.out.println("firstbranch change 2");
+
+
     }
 
 }
