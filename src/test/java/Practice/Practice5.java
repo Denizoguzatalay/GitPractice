@@ -9,5 +9,13 @@ public class Practice5 {
         System.out.println("jagsaxsxhgasvxhgagvxc");
         System.out.println("jagsaxsxhgasvxhgagvxc");
         System.out.println("jagsaxsxhgasvxhgagvxc");
+        System.out.println("jagsaxsxhgasvxhgagvxc");
+        System.out.println("jagsaxsxhgasvxhgagvxc");
+        System.out.println("jagsaxsxhgasvxhgagvxc");
+        System.out.println("jagsaxsxhgasvxhgagvxc");
+        System.out.println("jagsaxsxhgasvxhgagvxc");
+        System.out.println("jagsaxsxhgasvxhgagvxc");
+        System.out.println("jagsaxsxhgasvxhgagvxc");
+        System.out.println("jagsaxsxhgasvxhgagvxc");
     }
 }
